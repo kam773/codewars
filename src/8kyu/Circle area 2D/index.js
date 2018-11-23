@@ -1,0 +1,1 @@
+const circleArea = ({radius}) => Number((radius * radius * Math.PI).toFixed(6));
